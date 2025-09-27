@@ -1,4 +1,3 @@
-# Giftagon
 # 🎁 Giftagon — Social Gifting Platform
 
 **Giftagon** is a social platform that redefines the meaning of gifts — transforming them from random presents into **meaningful, useful, and community-driven experiences**.
