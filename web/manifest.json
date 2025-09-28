@@ -1,7 +1,7 @@
 {
-    "name": "gift",
-    "short_name": "gift",
-    "start_url": ".",
+    "name": "giftgon",
+    "short_name": "giftgon",
+    "start_url": "/Giftagon/",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
