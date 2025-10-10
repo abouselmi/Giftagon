@@ -44,7 +44,8 @@ Built with **Flutter**, Giftagon works seamlessly on **mobile, tablet, and web**
 
 ## 🚀 Getting Started
 
-1. Clone the repo:
-   ```bash
+1. The Web Version 💻
+   
 
-   git clone https://github.com/abouselmi/giftagon.git
+https://abouselmi.github.io/Giftagon 
+
