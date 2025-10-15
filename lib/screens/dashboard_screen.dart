@@ -406,7 +406,7 @@ class DashboardScreen extends ConsumerWidget {
                 icon: const Icon(Icons.attach_money, size: 16),
                 label: const Text("ساهم الآن", style: TextStyle(fontSize: 12)),
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: AppColors.primary10,
+                  backgroundColor: AppColors.primary,
                   padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                   shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
                 ),
@@ -552,7 +552,7 @@ class DashboardScreen extends ConsumerWidget {
               icon: const Icon(Icons.attach_money, size: 16),
               label: const Text("ساهم الآن", style: TextStyle(fontSize: 12)),
               style: ElevatedButton.styleFrom(
-                backgroundColor: AppColors.primary10,
+                backgroundColor: AppColors.primary,
                 padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                 shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(8)),
               ),
@@ -789,4 +789,5 @@ class DashboardScreen extends ConsumerWidget {
       ),
     );
   }
+
 }
