@@ -191,10 +191,7 @@ class _ProfileSettingsScreenState extends State<ProfileSettingsScreen> {
                         }
                       },
                     )
-                        : const Icon(
-                      Icons.person,
-                      color: AppColors.primary,
-                      size: 60,
+                        : null,
                     ),
                   ),
                   Positioned(
@@ -362,4 +359,5 @@ class _ProfileSettingsScreenState extends State<ProfileSettingsScreen> {
       ),
     );
   }
+
 }
